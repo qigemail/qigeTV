@@ -43,7 +43,7 @@ const API_SITES = {
      //     name: '量子资源',
      // },
     ffzy: {
-        api: 'https://api.ffzyapi.com/api.php/provide/vod',
+        api: 'http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at',
         name: '非凡影视',
         detail: 'http://ffzy5.tv', 
     },
